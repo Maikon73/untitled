@@ -1,0 +1,21 @@
+# ninja log v5
+1	52	7132917391242874	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	c2c45623cbf0fa2a
+1	52	7132917391242874	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	c2c45623cbf0fa2a
+53	9133	7132917482051828	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	7685523b165a8f38
+53	9133	7132917482051828	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	7685523b165a8f38
+9133	9255	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	14961cfd878c0495
+9133	9255	0	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	14961cfd878c0495
+9257	9306	7132917483770924	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	30f7269db3dd70c2
+9257	9306	7132917483770924	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	30f7269db3dd70c2
+9306	9357	7132917484288751	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	4e67d81c89823850
+9306	9357	7132917484288751	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	4e67d81c89823850
+9357	9406	7132917484780772	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	27ededf81d5471b
+9357	9406	7132917484780772	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	27ededf81d5471b
+9407	9456	7132917485280184	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	27fe834ad650c7c4
+9407	9456	7132917485280184	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	27fe834ad650c7c4
+9457	9504	7132917485760540	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	3a6e5b4ecf75d195
+9457	9504	7132917485760540	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	3a6e5b4ecf75d195
+9504	9571	7132917486430516	CMakeFiles/zlib-populate-complete	d78f738328b84de8
+9504	9571	7132917486430516	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	d78f738328b84de8
+9504	9571	7132917486430516	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	d78f738328b84de8
+9504	9571	7132917486430516	C:/Users/vladc/CLionProjects/untitled/cmake-build-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	d78f738328b84de8
