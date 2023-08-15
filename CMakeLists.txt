@@ -14,4 +14,4 @@ FetchContent_Declare(cpr GIT_REPOSITORY https://github.com/libcpr/cpr.git
 FetchContent_MakeAvailable(cpr)
 
 add_executable(untitled main.cpp)
-target_link_libraries(1ex-30.4 PRIVATE cpr::cpr)
+target_link_libraries(untitled PRIVATE cpr::cpr)
